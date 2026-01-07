@@ -1,10 +1,10 @@
-# 📚 Documentation Index
+# Documentation Index
 
-Welcome to the TypeScript Dessert Shop project! Use this index to navigate the documentation.
+Welcome to Chantal's Dessert Shop - a modern TypeScript-based dessert ordering application. Use this index to navigate the project documentation.
 
-## 🚀 Getting Started
+## Getting Started
 
-1. **[QUICKSTART.md](./QUICKSTART.md)** - Start here!
+1. **[QUICKSTART.md](./QUICKSTART.md)** - Start here
    - How to run the application
    - Quick setup instructions
    - Troubleshooting tips
@@ -21,7 +21,7 @@ Welcome to the TypeScript Dessert Shop project! Use this index to navigate the d
    - Design patterns used
    - Success metrics
 
-## 📂 Key Files
+## Key Files
 
 ### HTML
 - `index.html` - Main application page (OPEN THIS IN BROWSER)
@@ -45,15 +45,15 @@ Welcome to the TypeScript Dessert Shop project! Use this index to navigate the d
 ### Compiled Output (`dist/`)
 - `dist/` - Contains all compiled JavaScript files (auto-generated)
 
-## 🎯 Quick Links
+## Quick Links
 
 ### For Users
-- [How to run the app](./QUICKSTART.md#-run-the-application)
-- [How to use the app](./QUICKSTART.md#-how-to-use-the-app)
-- [Troubleshooting](./QUICKSTART.md#-troubleshooting)
+- [How to run the app](./QUICKSTART.md#run-the-application)
+- [How to use the app](./QUICKSTART.md#how-to-use-the-app)
+- [Troubleshooting](./QUICKSTART.md#troubleshooting)
 
 ### For Developers
-- [Project structure](./README.md#-project-structure)
+- [Project structure](./README.md#project-structure)
 - [Type definitions](./src/types/index.ts)
 - [Cart functions](./src/utils/cartFunctions.ts)
 - [ShoppingCart class](./src/classes/ShoppingCart.ts)
@@ -62,11 +62,11 @@ Welcome to the TypeScript Dessert Shop project! Use this index to navigate the d
 - [Usage examples](./src/examples.ts)
 
 ### For Learning
-- [TypeScript features used](./PROJECT_SUMMARY.md#-typescript-concepts-demonstrated)
-- [Design patterns](./PROJECT_SUMMARY.md#-design-patterns-used)
-- [Code examples](./README.md#-usage-example)
+- [TypeScript features used](./PROJECT_SUMMARY.md#typescript-concepts-demonstrated)
+- [Design patterns](./PROJECT_SUMMARY.md#design-patterns-used)
+- [Code examples](./README.md#usage-example)
 
-## 📖 Reading Order
+## Reading Order
 
 ### Beginner Path
 1. Start with [QUICKSTART.md](./QUICKSTART.md)
@@ -91,7 +91,7 @@ Welcome to the TypeScript Dessert Shop project! Use this index to navigate the d
 4. Modify code and experiment
 5. Add new features
 
-## 🎓 Learning Resources
+## Learning Resources
 
 ### TypeScript Concepts in This Project
 - **Interfaces**: See `src/types/index.ts`
@@ -107,14 +107,14 @@ Welcome to the TypeScript Dessert Shop project! Use this index to navigate the d
 - **Repository Pattern**: Order storage in `OrderManager`
 - **MVC Pattern**: Separation of data, logic, and UI
 
-## 🛠️ Development Workflow
+## Development Workflow
 
 1. **Make changes** in `src/` directory
 2. **Compile**: Run `npm run build` or `npm run watch`
 3. **Test**: Refresh browser to see changes
 4. **Debug**: Check browser console (F12)
 
-## 📱 Testing Checklist
+## Testing Checklist
 
 Use this to test the application:
 
@@ -130,18 +130,18 @@ Use this to test the application:
 - [ ] All hover effects
 - [ ] Modal interaction
 
-## 🎉 Project Highlights
+## Project Highlights
 
-✅ **100% TypeScript** with strict mode  
-✅ **Fully responsive** design  
-✅ **Zero compilation errors**  
-✅ **Complete documentation**  
-✅ **Clean code** with best practices  
-✅ **Event-driven** architecture  
-✅ **Type-safe** throughout  
-✅ **Production-ready** code  
+- **100% TypeScript** with strict mode  
+- **Fully responsive** design  
+- **Zero compilation errors**  
+- **Complete documentation**  
+- **Clean code** with best practices  
+- **Event-driven** architecture  
+- **Type-safe** throughout  
+- **Production-ready** code  
 
-## 📞 Need Help?
+## Need Help?
 
 1. Check [QUICKSTART.md](./QUICKSTART.md) troubleshooting section
 2. Review browser console for errors (F12)
@@ -150,6 +150,6 @@ Use this to test the application:
 
 ---
 
-**Happy coding!** 🚀
+**Happy coding!**
 
 Start by opening [QUICKSTART.md](./QUICKSTART.md) or just open `index.html` in your browser!

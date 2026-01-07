@@ -1,6 +1,6 @@
-# Quick Start Guide
+# Chantal's Dessert Shop - Quick Start Guide
 
-## 🚀 Run the Application
+## Run the Application
 
 ### Method 1: Simple File Open (Easiest)
 1. Navigate to the project folder
@@ -10,7 +10,7 @@
 ### Method 2: Using Python (Recommended)
 ```bash
 # Navigate to project folder
-cd "c:\Users\TECH HEAVEN\Downloads\dessert-shop"
+cd "C:\Users\CHANTAL\Downloads\dessert\dessert-shop"
 
 # Start Python server
 python -m http.server 8000
@@ -20,7 +20,7 @@ Then open: http://localhost:8000
 ### Method 3: Using Node.js
 ```bash
 # Navigate to project folder
-cd "c:\Users\TECH HEAVEN\Downloads\dessert-shop"
+cd "C:\Users\CHANTAL\Downloads\dessert\dessert-shop"
 
 # Start server with npx (no installation needed)
 npx http-server -p 8000
@@ -32,7 +32,7 @@ Then open: http://localhost:8000
 2. Right-click on `index.html`
 3. Select "Open with Live Server"
 
-## 🔧 Making Changes
+## Making Changes
 
 If you want to modify the TypeScript code:
 
@@ -50,7 +50,7 @@ npm run watch
 ```
 Keep this terminal open while developing!
 
-## 🎯 How to Use the App
+## How to Use the Dessert Shop
 
 ### Adding Items to Cart
 1. Click "Add to Cart" button on any dessert
@@ -67,7 +67,7 @@ Keep this terminal open while developing!
 2. Review your order in the modal
 3. Click "Start New Order" to clear cart and start over
 
-## 📁 Project Structure Overview
+## Project Structure Overview
 
 ```
 dessert-shop/
@@ -84,7 +84,7 @@ dessert-shop/
 └── asserts/            # Images and icons
 ```
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### TypeScript Not Compiling?
 ```bash
@@ -105,7 +105,7 @@ npm run build
 2. Did you refresh the browser? Press Ctrl+F5 (hard refresh)
 3. Check browser console for errors (F12)
 
-## 💡 Next Steps
+## Next Steps
 
 ### Explore the Code
 - **Start with**: `src/main.ts` - Main UI controller
@@ -118,7 +118,7 @@ npm run build
 3. Add a discount feature to the cart
 4. Implement local storage to persist cart
 
-## 📚 Key Files to Know
+## Key Files to Know
 
 | File | Purpose |
 |------|---------|
@@ -130,7 +130,7 @@ npm run build
 | `src/data/desserts.ts` | Dessert data array |
 | `src/types/index.ts` | TypeScript types and interfaces |
 
-## 🎨 Customization Ideas
+## Customization Ideas
 
 ### Change Colors
 Edit CSS variables in `styles/main.css`:
@@ -162,10 +162,10 @@ Edit `src/data/desserts.ts`:
 
 Edit in `styles/main.css` under media queries!
 
-## 🤝 Need Help?
+## Need Help?
 
 - Check the browser console (F12) for error messages
 - Review the README.md for detailed documentation
 - All TypeScript code has JSDoc comments explaining functionality
 
-Happy coding! 🎉
+Happy coding!
