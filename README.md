@@ -15,8 +15,8 @@ A modern, type-safe dessert ordering application built with TypeScript and vanil
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Tonzichantal7/DESSERT-SHOP.git
-   cd DESSERT-SHOP
+   git clone https://github.com/Tonzichantal7/dessert-shopp.git
+   cd dessert-shopp
    ```
 
 2. **Install dependencies**
